@@ -1,3 +1,3 @@
 # Akshitha
 
-echo akki
+ akki
